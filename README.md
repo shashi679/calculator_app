@@ -27,11 +27,6 @@ Command-line to-do list application
 - **File:** `todo_manager.py`
 - **Skills:** File I/O, data persistence, user interface
 
-### 3. Web Scraper
-Scrapes product prices from e-commerce sites
-- **File:** `price_scraper.py`
-- **Skills:** HTTP requests, HTML parsing, data extraction
-
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,9 +35,9 @@ Scrapes product prices from e-commerce sites
 
 ## 📈 Progress
 
-- **Started:** January 2024
-- **Projects Completed:** 3
-- **Lines of Code:** 500+
+- **Started:** Jan  2025
+- **Projects Completed:** 2
+- **Lines of Code:** 80
 - **Concepts Mastered:** Functions, loops, file handling
 
 ## 🎉 Achievements
